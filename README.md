@@ -11,7 +11,7 @@ this app have a world that only consist a single room that have a size at least 
 ## Program Explanation
 
 ### Ceiling, Rom
-![](A-Frame_FP_Math\Image_forgithub\bagian1_penjelasanWorld.png) 
+![](A-Frame_FP_Math/Image_forgithub/bagian1_penjelasanWorld.PNG) 
 ![](A-Frame_FP_Math\Image_forgithub\Picture1.1_world.png)
 ![](A-Frame_FP_Math\Image_forgithub\Picture1.2_world.png)
 this part is used to make the wall and the ceiling in the room, it doesn't have a physics so user can penetrate the wall if choose so.
