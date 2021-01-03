@@ -1,0 +1,9 @@
+newmtl Sphere material 1_01257da0-d5b5-4b04-a0f1-38e0407d8c4f
+Kd 0.000 0.082 1.000
+d 1.000
+newmtl Sphere material_97cc099c-dd5d-4174-8957-96d52d5dee5a
+Kd 0.000 0.082 1.000
+d 1.000
+newmtl Box material_199374aa-2add-4d2a-b515-8489df249d26
+Kd 0.000 0.082 1.000
+d 1.000
