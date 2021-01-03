@@ -38,7 +38,7 @@ this is for the learning board there will be four learning board and one board f
 ![](A-Frame_FP_Math/Image_forgithub/bagian5_PanahAtas.PNG)
 ![](A-Frame_FP_Math/Image_forgithub/Picture5.1_PanahAtas.PNG)
 <img align="left" width="500" height="500" src="A-Frame_FP_Math/Image_forgithub/bagian6_PanahBawah.PNG">
-<img align="left" width="500" height="500" src="A-Frame_FP_Math/Image_forgithub/Picture5.2_PanahBawah.PNG">
+<img align="left" width="150" height="150" src="A-Frame_FP_Math/Image_forgithub/Picture5.2_PanahBawah.PNG">
 ![](A-Frame_FP_Math/Image_forgithub/bagian7_PapanQuiz.PNG)
 ![](A-Frame_FP_Math/Image_forgithub/Picture5.3_PapanQuiz.PNG)
 
