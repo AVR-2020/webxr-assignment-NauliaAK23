@@ -32,15 +32,15 @@ this part is to show the symbol of the basic math operation, all of the symbol(e
 
 this is for the learning board there will be four learning board and one board for greeting in the room each is for specific subject in basic math operation, all of the board is made ini blender and the word is made in the 3d paint in windows t self
 
-![](A-Frame_FP_Math/Image_forgithub/Picture5.4_Quiz.PNG=250x250)
-![](A-Frame_FP_Math/Image_forgithub/bagian4_MulaiQuiz.PNG=250x250)
-![](A-Frame_FP_Math/Image_forgithub/Picture4_PapanMulaiQuiz.PNG=250x250)
-![](A-Frame_FP_Math/Image_forgithub/bagian5_PanahAtas.PNG=250x250)
+![](A-Frame_FP_Math/Image_forgithub/Picture5.4_Quiz.PNG)
+![](A-Frame_FP_Math/Image_forgithub/bagian4_MulaiQuiz.PNG)
+![](A-Frame_FP_Math/Image_forgithub/Picture4_PapanMulaiQuiz.PNG)
+![](A-Frame_FP_Math/Image_forgithub/bagian5_PanahAtas.PNG)
 ![](A-Frame_FP_Math/Image_forgithub/Picture5.1_PanahAtas.PNG)
-![](A-Frame_FP_Math/Image_forgithub/bagian6_PanahBawah.PNG=250x250)
-![](A-Frame_FP_Math/Image_forgithub/Picture5.2_PanahBawah.PNG=250x250)
-![](A-Frame_FP_Math/Image_forgithub/bagian7_PapanQuiz.PNG=250x250)
-![](A-Frame_FP_Math/Image_forgithub/Picture5.3_PapanQuiz.PNG=250x250)
+![](A-Frame_FP_Math/Image_forgithub/bagian6_PanahBawah.PNG)
+![](A-Frame_FP_Math/Image_forgithub/Picture5.2_PanahBawah.PNG =250x250)
+![](A-Frame_FP_Math/Image_forgithub/bagian7_PapanQuiz.PNG)
+![](A-Frame_FP_Math/Image_forgithub/Picture5.3_PapanQuiz.PNG)
 
 this is the board that is able to move downward or upward if the choose either the upward triangle or the downward triangle each will move the board in designated position, there are three type of this board, the firts one is the board that filled with the question for the user, second one are two board that have correct or wrong word depending on which the answer (that is in the triangle for each boar) the player choose and last that is the third is a board that have clue that will help solving the question.    
 
